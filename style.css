@@ -119,6 +119,9 @@ tr:last-child > td {
   .text-container {
     padding: 2rem;
   }
+  .main-img {
+    border-radius: none;
+  }
   h1 {
     font-size: 0.2rem;
   }
